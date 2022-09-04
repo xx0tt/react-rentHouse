@@ -1,0 +1,72 @@
+{
+  "id": "3624863",
+  "name": "react好客租房",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "201571",
+      "name": "3.1-搜索",
+      "font_class": "31sousuo",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "1727598",
+      "name": "411地图",
+      "font_class": "ditu",
+      "unicode": "e906",
+      "unicode_decimal": 59654
+    },
+    {
+      "icon_id": "13474459",
+      "name": "下箭头",
+      "font_class": "xiajiantou",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "77828",
+      "name": "收藏",
+      "font_class": "shoucang",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "827631",
+      "name": "个人",
+      "font_class": "geren",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "2674476",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "6582324",
+      "name": "时间",
+      "font_class": "shijian",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "17199040",
+      "name": "卡片",
+      "font_class": "kapian",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "1305337",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    }
+  ]
+}

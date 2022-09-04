@@ -1,0 +1,51 @@
+.profile-box {
+  .my-title {
+    .bg-img {
+      width: 100%;
+    }
+    .My_info {
+      margin-left: 50%;
+      box-shadow: 0 0 10px 3px #ddd;
+      transform: translate(-50%, -60px);
+      height: 165px;
+      width: 320px;
+      text-align: center;
+      background-color: #fff;
+      .My_myIcon img {
+        transform: translateY(-30px);
+        width: 70px;
+        height: 70px;
+      }
+      .My_user {
+        .My_name {
+          transform: translateY(-10px);
+          margin-bottom: 10px;
+        }
+      }
+    }
+  }
+  .my-content {
+    transform: translateY(-50px);
+    .grid {
+      .gird-item {
+        padding-top: 10px;
+        text-align: center;
+        p {
+          transform: translateY(-5px);
+        }
+        .iconfont {
+          font-weight: 200;
+          font-size: 25px;
+        }
+      }
+    }
+  }
+  .My_ad {
+    transform: translateY(-30px);
+    display: flex;
+    img {
+      margin: auto;
+      width: 90%;
+    }
+  }
+}
