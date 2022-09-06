@@ -22,3 +22,11 @@ export const getHotCityApi = () => {
     url: '/area/hot',
   })
 }
+
+// 获取房源数据
+export const getAreaMapApi = id => {
+  return request({
+    url: '/area/map',
+    params: { id },
+  })
+}

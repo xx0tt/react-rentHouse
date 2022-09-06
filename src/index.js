@@ -7,6 +7,7 @@ import App from './App'
 import history from './utils/history'
 import './assets/iconfont/iconfont.css'
 import './assets/index.scss'
+import 'default-passive-events'
 
 const root = ReactDOM.createRoot(document.getElementById('app'))
 

@@ -68,7 +68,7 @@ export default function City() {
           <List>
             {hotCitys.map(item => {
               return (
-                <List.Item key={item.value} onClick={() => onClickCity(item)}>
+                <List.Item key={item.value} arrow={false} onClick={() => onClickCity(item)}>
                   {item.label}
                 </List.Item>
               )
@@ -84,7 +84,7 @@ export default function City() {
                 <List>
                   {citys[keyCode].map(item => {
                     return (
-                      <List.Item key={item.value} onClick={() => onClickCity(item)}>
+                      <List.Item arrow={false} key={item.value} onClick={() => onClickCity(item)}>
                         {item.label}
                       </List.Item>
                     )

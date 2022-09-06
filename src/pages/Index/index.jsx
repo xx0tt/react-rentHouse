@@ -37,7 +37,7 @@ export default function Index() {
           <p>请输入小区或地址</p>
         </div>
         {/* 地图按钮 */}
-        <span className="iconfont icon-ditu" />
+        <span className="iconfont icon-ditu" onClick={() => navigate('/map')} />
       </div>
 
       {/* 轮播图 */}

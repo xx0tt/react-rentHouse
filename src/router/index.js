@@ -8,6 +8,7 @@ import Login from '../pages/Login'
 import Rent from '../pages/Rent'
 import Favorate from '../pages/Favorate'
 import City from '../pages/City'
+import Map from '../pages/Map'
 
 export default [
   {
@@ -24,5 +25,6 @@ export default [
   { path: '/rent', element: <Rent /> },
   { path: '/favorate', element: <Favorate /> },
   { path: '/city', element: <City /> },
+  { path: '/map', element: <Map /> },
   { path: '/', element: <Navigate to="home" /> },
 ]
